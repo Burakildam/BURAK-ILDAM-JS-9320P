@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bgImage{
+    background: url(wp6511672.webp) no-repeat !important;
+    background-size: cover !important;
+    width: 100% !important;
+    height: 100vh !important;
+    position: fixed;
+    top: 0;
+    z-index: -1 !important;
+}
+
+
+.card-img-top{
+    height: 300px !important;
+    border-radius: 30px !important;
+}
+
+.card {
+    background-color: black;
+    border-radius: 30px !important;
+
+}
